@@ -1,0 +1,11 @@
+psutil
+cryptography
+httpx
+requests
+pypiwin32
+wmi
+alive-progress
+colorama
+pyinstaller
+pillow
+pycryptodome
