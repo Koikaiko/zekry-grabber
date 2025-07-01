@@ -10,3 +10,4 @@ pyinstaller
 pillow
 pycryptodome
 
+
